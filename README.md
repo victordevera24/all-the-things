@@ -65,3 +65,5 @@ Each member of your team should add the following items to this project, followi
    	```
 
 After you have completed these steps follow the steps in the GitHub Group Workflow Document to get your work into the Git Commander's main repo from the project. When that is done pull any additional changes down to your local repository.
+
+### THAT'S IT! GOOD JOB! 
